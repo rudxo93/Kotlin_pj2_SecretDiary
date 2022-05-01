@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/Godic_font"
+        android:fontFamily="@font/bm_font"
         android:text="@string/main_title"
         android:textColor="@color/white"
         android:textSize="40sp"
